@@ -75,6 +75,10 @@
   bottom: 15px;
 }
 
+.botao-comprar-blue{
+  background-color: rgb(9, 187, 181);
+}
+
 .border-0{
   border: 0;
 }
