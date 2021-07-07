@@ -101,6 +101,19 @@ body{
   opacity: 0.7;
 }
 
+.border-white{
+  border: 5px solid rgb(255, 255, 255);
+  opacity: 0.9;
+}
+
 .text-gray{
   color: rgb(68, 68, 68);
+}
+
+.bg-darktiktokv1{
+  background-color: #1f2224;
+}
+
+.bg-darktiktokv2{
+  background-color: #1e2124;
 }
