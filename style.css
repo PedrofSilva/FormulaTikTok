@@ -17,6 +17,13 @@ body{
     url(imagens/bg-hema.jpg) no-repeat center center / cover ;
     margin-top: -10px; /*RETIRAR, COLOQUEI SOMENTE PARA SUMIR TEXTO LARANJA DA IMAGEM*/
 }
+
+.img-background-mentores{
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0 , 0, 0, 0.2)), 
+    url(imagens/background-tiktok-white.png) no-repeat center center / cover ;
+    /*background-size: 250px;*/
+}
+
 .img-ts1{
   max-width: 800px;
 }
