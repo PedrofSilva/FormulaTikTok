@@ -133,3 +133,8 @@ body{
 .bg-darktiktokv2{
   background-color: #1e2124;
 }
+
+.titulo-este-curso{
+  background-color: rgb(255, 0, 80);
+  padding: 5px;
+}
