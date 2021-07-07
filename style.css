@@ -58,6 +58,11 @@ body{
 @-moz-keyframes pulsep {to {box-shadow: 0 0 0 10px rgba(232, 76, 61, 0);}}
 @-ms-keyframes pulsep {to {box-shadow: 0 0 0 10px rgba(232, 76, 61, 0);}}
 @keyframes pulsep {to {box-shadow: 0 0 0 10px rgba(232, 76, 61, 0);}}
+
+.pulse-buttonblue{
+  background-color: rgb(9, 187, 181);
+  box-shadow: 0 0 0 0 rgba(255, 0, 80, 0.7);
+}
 /******************************** FIM BOTÃO ***************************************/
 
 
@@ -67,6 +72,10 @@ body{
 
 .animate__pulse {
   --animate-duration: 8s;
+}
+
+.animate__pulse__valores {
+  --animate-duration: 3s;
 }
 
 .botao-comprar{
