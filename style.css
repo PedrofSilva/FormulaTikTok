@@ -65,6 +65,15 @@ body{
   max-width: 240px;
   z-index: 0;
 }
+
+.fotodavi-s5{
+  position: absolute;
+  right: -150px;
+  bottom: 0px;
+  max-width: 580px;
+  z-index: 0;
+}
+
 /******************************** INICIO BOTÃO ***************************************/
 
 .pulse-button {
@@ -163,6 +172,12 @@ body{
   background-color: #1e2124;
 }
 
+.background-s5{
+  padding: 10px;
+  background-color: rgba(31, 34, 36, 0.8);
+
+}
+
 .titulo-este-curso{
   background-color: rgb(255, 0, 80);
   padding: 5px;
@@ -173,4 +188,11 @@ body{
 
 .color-bluetiktok{
   color: rgb(21, 226, 219);
+}
+
+.zindex-1{
+  z-index: 1 !important;
+}
+.zindex-0{
+  z-index: 0 !important;
 }
