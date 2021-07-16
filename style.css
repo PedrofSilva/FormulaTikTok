@@ -199,3 +199,8 @@ body{
 .zindex-0{
   z-index: 0 !important;
 }
+
+/*TIREI OS EFEITOS DE FORMA GERAL DOS LINKS*/
+a{
+  text-decoration: none;
+}
